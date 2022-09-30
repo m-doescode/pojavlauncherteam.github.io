@@ -25,7 +25,7 @@ Lowering Resolutin affects the performance a lot! You can increase it if you wan
 
 ### 3- PojavOptimize
 
-Originally made to help his OnePlus 6T, PojavLauncher Discord moderator Chuck_Norris_ has made [PojavOptimize](https://github.com/Doregon/PojavOptimize) , a collection of Fabric mods to boost performance,
+Originally made to help his OnePlus 6T, PojavLauncher Discord moderator Chuck_Norris_ has made [PojavOptimize](https://github.com/PojavLauncherTeam/PojavOptimize) , a collection of Fabric mods to boost performance,
 
 That includes the mods;
 
@@ -45,7 +45,7 @@ and much more!
 
 ### How to download it ?
 
-* Click [here](https://github.com/Doregon/PojavOptimize/releases) and select the latest verified (✔️) release
+* Click [here](https://github.com/PojavLauncherTeam/PojavOptimize/releases) and select the latest verified (✔️) release
 
 * Then scroll down and select `assets` and select the zip file to donwload the modpack
 
